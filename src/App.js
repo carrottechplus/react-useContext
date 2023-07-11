@@ -1,6 +1,12 @@
+import Content from './Content';
+import Header from './Header';
+
 function App() {
 	return (
-		<h1>Hello</h1>
+		<main>
+			<Header />
+			<Content />
+		</main>
 	);
 }
 
