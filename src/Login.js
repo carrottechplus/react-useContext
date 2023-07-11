@@ -1,8 +1,8 @@
 function Login() {
 	return (
 		<article>
-			<button>login</button>
-			<button>logout</button>
+			<button>Login</button>
+			<button>Logout</button>
 		</article>
 	);
 }
